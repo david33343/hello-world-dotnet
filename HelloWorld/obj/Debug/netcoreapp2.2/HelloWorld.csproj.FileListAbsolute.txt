@@ -1,0 +1,11 @@
+C:\Users\david\OneDrive\OSU\Spring 2019\ACCTMIS 3610\HelloWorld\bin\Debug\netcoreapp2.2\HelloWorld.deps.json
+C:\Users\david\OneDrive\OSU\Spring 2019\ACCTMIS 3610\HelloWorld\bin\Debug\netcoreapp2.2\HelloWorld.runtimeconfig.json
+C:\Users\david\OneDrive\OSU\Spring 2019\ACCTMIS 3610\HelloWorld\bin\Debug\netcoreapp2.2\HelloWorld.runtimeconfig.dev.json
+C:\Users\david\OneDrive\OSU\Spring 2019\ACCTMIS 3610\HelloWorld\bin\Debug\netcoreapp2.2\HelloWorld.dll
+C:\Users\david\OneDrive\OSU\Spring 2019\ACCTMIS 3610\HelloWorld\bin\Debug\netcoreapp2.2\HelloWorld.pdb
+C:\Users\david\OneDrive\OSU\Spring 2019\ACCTMIS 3610\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.csprojAssemblyReference.cache
+C:\Users\david\OneDrive\OSU\Spring 2019\ACCTMIS 3610\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\OSU\Spring 2019\ACCTMIS 3610\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\david\OneDrive\OSU\Spring 2019\ACCTMIS 3610\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.AssemblyInfo.cs
+C:\Users\david\OneDrive\OSU\Spring 2019\ACCTMIS 3610\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.dll
+C:\Users\david\OneDrive\OSU\Spring 2019\ACCTMIS 3610\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.pdb
